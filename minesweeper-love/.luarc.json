@@ -1,0 +1,12 @@
+{
+    "runtime": {
+        "version": "LuaJIT"
+    },
+    "diagnostics": {
+        "globals": ["love"]
+    },
+    "workspace": {
+        "library": [],
+        "checkThirdParty": false
+    }
+}
